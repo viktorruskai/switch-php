@@ -8,7 +8,7 @@ $ cp switch-php.sh /usr/local/bin/switch-php && chmod +x /usr/local/bin/switch-p
 ```
 or download it via curl:
 ```bash
-$ curl -L [url] > /usr/local/bin/switch-php && chmod +x /usr/local/bin/switch-php
+$ curl -L https://raw.githubusercontent.com/viktorruskai/switch-php/master/switch-php.sh > /usr/local/bin/switch-php && chmod +x /usr/local/bin/switch-php
 ```
 
 ## Usage
